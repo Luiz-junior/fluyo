@@ -5,5 +5,3 @@
 ### run yarn or npm install
 
 ### run yarn run ios or yarn android 
-
-## I can't wait to join in the team :)
